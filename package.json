@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "truffle-privatekey-provider": "^1.5.0",
+    "web3": "^1.7.3"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.26"
+  }
+}
